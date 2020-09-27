@@ -4,7 +4,7 @@ steps for installing
 3.)open git bash in folder and type git submodules init 
 4.)then type git submodules update
 
-pulling files from submodules
+submodules
 1.)go to submodule folder (charlesFront/Backend)
 2.) at start there are 2 branches, HEAD and master
 3.)switch to master (git checkout master)
@@ -14,3 +14,4 @@ of chosen submodule will be updated. Like the actual git repo and not the charle
 be saved in main folder(charlesMEAN). Then evertime u push, the git repo would be 
 updated
 6.) dont forget to use branches when u plan on making a change, applies to submodules too.
+
