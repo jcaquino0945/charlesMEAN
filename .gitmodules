@@ -1,0 +1,3 @@
+[submodule "charlesFrontEnd"]
+	path = charlesFrontEnd
+	url = https://github.com/jcaquino0945/charlesFrontEnd.git
